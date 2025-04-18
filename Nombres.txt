@@ -1,1 +1,3 @@
-Benjamin Aguayo y Sebastian Vega
+Benjamin Aguayo y Cristobal Palma
+profesor: Miguel Ortiz Vera
+clase: Programacion de Redes Virtualizadas
